@@ -10,7 +10,9 @@
     overflow: hidden;
 }
 
-
+img {
+    position: absolute;
+}
 
 #cow {
 	z-index: 3;
@@ -47,10 +49,10 @@
 	height: 80px;
 	width: 90px;
 }
-/* #birds {
+#birds {
 	z-index:3;
-	bottom: 100px;
-	left:80px;
-	height: 80px;
-    width: 90px;
-} */
+	bottom: 400px;
+	left:1080px;
+	height: 380px;
+    width: 390px;
+}
