@@ -52,7 +52,7 @@ img {
 #birds {
 	z-index:3;
 	bottom: 400px;
-	left:1080px;
-	height: 380px;
-    width: 390px;
+	right: 5px;
+	height: 100px;
+    width: 00px;
 }
