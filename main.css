@@ -16,43 +16,44 @@ img {
 
 #cow {
 	z-index: 3;
-	height: 90px;
-	width:80px;
-	top:400px;
-	left:200px;
+	height: 120px;
+	width:120px;
+	bottom:80px;
+	right:50px;
 }
 #pig {
 	z-index:4 ;
-	right: 400px;
-	bottom:100px;
-	height:110px;
-	width:120px;
+	right: 170px;
+	bottom:90px;
+	height:60px;
+	width:80px;
 }
 #chicken {
 	z-index: 5;
-	height: 120px;
-	width: 10%;
-	top: 600px;
-    right: 200px; 
+	height: 180px;
+	width: 190px;
+    right: 600px; 
+    bottom: 20px;
 }
 #sheep {
 	z-index: 4;
-	left: 16px;
+	left: 446px;
 	top: 20px;
-	height: 125px;
-	width: 325px; 
+	
+    width: 225px; 
+    top: 500px;
 }
 #horse {
 	z-index:3;
-	bottom: 100px;
+	bottom: 70px;
 	left:80px;
-	height: 80px;
-	width: 90px;
+	height: 340px;
+	width: 290px;
 }
 #birds {
 	z-index:3;
 	bottom: 400px;
-	right: 5px;
-	height: 100px;
-    width: 00px;
+	right: 65px;
+	height: 190px;
+    width: 300px;
 }
