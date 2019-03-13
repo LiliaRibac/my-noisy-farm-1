@@ -1,12 +1,16 @@
+
 .background {
     background-image: url(background.png);
-    height: 10px;
+    height: 100vh;
     width: 100vw;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .container {
     overflow: hidden;
 }
+/*
+
 body {
 	background-image: url(field-of-grass.jpg);
 }
@@ -28,7 +32,7 @@ img {
 	left:200px;
 }
 #pig {
-	z-index: ;
+	z-index:4 ;
 	right: 400px;
 	bottom:100px;
 	height:110px;
@@ -139,4 +143,4 @@ img {
 	right: 200px;
 	height:40px;
 	width:40px;
-}
+} */
