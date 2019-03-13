@@ -28,6 +28,13 @@ img {
 	height:110px;
 	width:120px;
 }
+#cow {
+	z-index:4 ;
+	right: 400px;
+	bottom:100px;
+	height:110px;
+	width:120px;
+}
 #chicken {
 	z-index: 5;
 	height: 120px;
