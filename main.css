@@ -14,7 +14,7 @@
 
 #cow {
 	z-index: 3;
-	height: 80px;
+	height: 90px;
 	width:80px;
 	top:400px;
 	left:200px;
@@ -28,22 +28,29 @@
 }
 #chicken {
 	z-index: 5;
-	height: 60px;
-	width: 60px;
+	height: 120px;
+	width: 10%;
 	top: 600px;
-	right: 200px; 
+    right: 200px; 
 }
-#heep {
-	z-index: 3;
+#sheep {
+	z-index: 4;
 	left: 16px;
-	top: 420px;
-	height: 25px;
-	width: 25px; 
+	top: 20px;
+	height: 125px;
+	width: 325px; 
 }
 #horse {
-	z-index: 2;
-	bottom: 40px;
-	left:300px;
-	height: 250px;
-	width: 300px;
+	z-index:3;
+	bottom: 100px;
+	left:80px;
+	height: 80px;
+	width: 90px;
 }
+/* #birds {
+	z-index:3;
+	bottom: 100px;
+	left:80px;
+	height: 80px;
+    width: 90px;
+} */
